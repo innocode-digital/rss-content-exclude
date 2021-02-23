@@ -1,0 +1,25 @@
+{
+  "name": "innocode-digital/wp-image-editor-aws-lambda",
+  "version": "1.1.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "require": {
+    "php": ">=7.0",
+    "composer/installers": "~1.0"
+  },
+  "description": "Exclude from RSS feed Divi builder sections with class \"RSS-NoFollow\".",
+  "authors": [
+    {
+      "name": "Innocode",
+      "email": "post@innocode.no",
+      "homepage": "https://innocode.com/"
+    },
+    {
+      "name": "MaksVeter"
+    },
+    {
+      "name": "Viktor Kuliebiakin",
+      "email": "kuliebiakin@gmail.com"
+    }
+  ]
+}
